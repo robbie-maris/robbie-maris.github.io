@@ -72,6 +72,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Reviewing
+======
+Have reviewed papers for the following peer-reviewed journals:
+* Australian Journal of Agricultural and Resource Economics ([AJARE](https://onlinelibrary.wiley.com/journal/14678489))
+* Cogent Psychology ([Cogent Psychol](https://www.tandfonline.com/journals/oaps20))
+
 Community
 ======
 * 2013 - now: Football referee

@@ -79,6 +79,7 @@ Community
    * Formerly New Zealand Football and WaiBOP Football Federation
    * Train regularly and referee matches on Saturday and Sunday
    * Invited to referee at two international youth tournaments (Kanga Cup) in 2017 and 2018
+ * 2024-now: Student representative in the IOE at UCL
  * 2021-2023: Invited member of the University of Waikato Scholarships Committee (student representative)
  * 2016-2020: Other volunteering, including high-school tutoring, community events, football coaching and rubbish clean-ups
 
@@ -90,3 +91,4 @@ Selected awards and achievements
 * 2022 Masters Research Scholarship from Manaaki Whenua for Strategic Objective 2 of the [Biological Heritage National Science Challenge](https://bioheritage.nz/)
 * 2019-2022 Five Subject Awards at University of Waikato (Economics and Science)
 * 2018-2021 Te Paewai o te Rangi: [Scholarship](https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/outstanding-academic-achievement/) for Outstanding Academic Achievement
+* 2018-2021 [Kelliher Charitable Trust](https://www.kct.co.nz/kelliher-economics-foundation) Economics Scholarship

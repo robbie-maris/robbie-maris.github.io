@@ -16,6 +16,9 @@ main:
         
   - title: "Working papers"
     url: /wp/
-    
+
+  - title: "Reports & Blogs"
+    url: /reports/
+  
   - title: "CV"
     url: /cv/

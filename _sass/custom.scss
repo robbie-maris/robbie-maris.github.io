@@ -88,14 +88,11 @@ details summary:hover {
   line-height: 1.5;
 }
 
-
-/* Reduce space at the top of each teaching card */
 .teaching-card {
-  padding-top: 1em; /* or 0.8em if you want it even tighter */
+  padding-top: 1em; /* adjust this value until it looks right */
 }
 
-/* Remove default margin above the title */
 .teaching-card h3 {
   margin-top: 0;
-  margin-bottom: 0.4em;
 }
+

@@ -10,50 +10,62 @@
       image: "/images/pub_volunteering_image.png"
 
     - title: "Environmental Identity in Economics and Policymaking"
+      authors: "McLeod,J., Hine, D., Milfont, T., ,Dorner, Z., Tassell-Matamua, N., Maris, R., Kitson, J. & Stahlmann-Brown, P."
+      year: 2024
+      journal: "Journal of Environmental Management, 351"
+      link: "https://doi.org/10.1016/j.jenvman.2024.120019"
+      abstract: >
+        Urbanization poses numerous challenges to freshwater biodiversity. This paper describes two studies with the joint aim of demonstrating the benefits of applying a systematic behaviour change framework and providing the foundational knowledge to inform future behavior change work to protect and restore urban freshwater biodiversity. In Study 1 we used a mixed-methods research design, involving 14 key informant interviews followed by an online survey targeting 17 freshwater biodiversity experts and another targeting a representative sample of 550 urban residents, to identify and prioritize the most promising resident behaviors to target to reduce stormwater pollution and improve natural waterway habitats in urban areas. Study 2 focused on the top-ranked short-term behavior identified in Study 1, citizen reporting of pollution in stormwater drains and waterways. We surveyed a representative sample of 1901 urban residents across Aoteraoa New Zealand to identify four main determinants influencing this behavior: awareness and uncertainty about reporting, lack of opportunity to report, social motivation and personal motivation to report, and five potential target audiences: ‘Supportive’, ‘Unaware but receptive’, ‘Motivated but lack support’, ‘Reluctant’, and ‘Not my problem’. We make recommendations for the most appropriate intervention designs to target each of these audience segments to promote the reporting of stormwater pollution in urban areas. This knowledge will allow for a more coordinated and effective approach for addressing the ‘human element’ that lies at the heart of many urban freshwater management problems.
+      image: ""
+
+    - title: "Protecting and restoring freshwater biodiversity across urban areas in Aotearoa New Zealand: Citizens’ reporting of pollution in stormwater drains and waterways"
       authors: "Dorner, Z., Maris, R., & Carlsson, F."
       year: 2025
       journal: "Review of Environmental Economics and Policy (forthcoming)"
       link: "https://doi.org/10.1093/reep/rev010"
       abstract: >
-        We propose the concept of “environmental identity” to explain heterogeneity in pro-environmental preferences
-        and policy support. Using survey and experimental data, we show that self-identified environmentalists exhibit
-        stronger willingness to pay for climate policies even after controlling for income and ideology.
-      image: "/images/pub_env_identity.png"
+        This paper examines the role of environmental identity in environmental policy and economics, the
+extent to which environmental policies affect environmental identity, and the welfare implications.
+We begin by reviewing the identity economics literature and environmental identity literature, and
+then present a novel conceptual framework of identity and pro-environmental behavior. We discuss
+how policy interacts with environmental identity, particularly through shifting and priming. We
+conclude with suggestions for future policymaking, as well as the role of economics in environmental
+identity research.
+      image: "/images/pub_reep_image.png"
 
+- theme: "Education and Labour"
+  publications:
     - title: "The Labour Market Trade-offs of Pet Ownership"
       authors: "Maris, R., & Cameron, M. P. (2023)"
       journal: "Economics and Business Letters, 12(1)"
       link: "https://reunido.uniovi.es/index.php/EBL/article/view/18289"
       abstract: >
-        Using microdata from New Zealand, we estimate the relationship between pet ownership and labour market
-        outcomes. Pet owners are more likely to choose flexible work arrangements but work fewer hours on average,
-        suggesting lifestyle preferences rather than productivity effects.
-      image: "/images/pub_pet_labour.png"
+       Pets are an important part of many peoples’ lives, and provide mental, physical and emotional benefits. However, the costs of pet ownership have received little attention. We investigate the association between pet ownership and wage income using data from the 2018 General Social Survey. We hypothesise that pet ownership may negatively influence income by lowering labour mobility and positively influence income by garnering valuable psychosocial attributes. We analyse interactions between pet ownership and education, pet ownership and housing tenure, and pet ownership and race to further investigate the potential labour mobility channel. Overall, we find that pet ownership decreases wage income and that these negative effects are larger for groups where mobility effects are likely higher.
+      image: "/images/pub_pets_image.png"
 
-- theme: "Education and Labour"
-  publications:
-    - title: "Blending Academic and Vocational Education: The Impact of T Levels"
-      authors: "Maris, R."
-      year: 2025
-      journal: "CEPEO Working Paper No. 25-11, University College London"
-      link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-11"
+    - title: "Wellbeing education increases skills and knowledge among tertiary students in the agricultural sector: insights from a mixed methods study"
+      authors: "Winder, L., Stanley-Clarke, N., Maris, R., Hay, A., & Knook, J. (2025)"
+      journal: "Journal of Agricultural Education and Extension, 31(2)"
+      link: "https://doi.org/10.1080/1389224X.2024.2351545"
       abstract: >
-        This study estimates the impact of England’s new T Level qualifications on student outcomes and progression.
-        Using administrative data, I find that T Levels improve vocational alignment and post-16 retention but show
-        mixed effects on academic progression.
-      image: "/images/pub_tlevels.png"
+      Purpose
+The agricultural sector is facing a myriad of financial, environmental, social, and cultural challenges which affect the mental health of those working on-farm. This study focused on a tertiary education programme designed to increase recognition of mental health issues and convey strategies to address these.
 
-    - title: "English and Maths Resits: Drivers of Success"
-      authors: "Maris, R., & Robinson, D."
-      year: 2025
-      journal: "Education Policy Institute"
-      link: "https://epi.org.uk/publications-and-research/english-and-maths-resits-drivers-of-success/"
-      abstract: >
-        We use national administrative data to identify factors influencing the success of students retaking English
-        and maths GCSEs. The results highlight the importance of prior attainment, teaching quality, and institutional
-        support structures.
-      image: "/images/pub_resits.png"
+Methodology
+To identify the effect of such a programme, and which aspects contribute to that effect, this paper applied a mixed methods approach. Quantitative propensity score matching was used to identify changes in knowledge and skills, and qualitative surveys were conducted to explore the wellbeing of students and to identify aspects of the programme contributing to change.
 
+Findings
+Students report an increase in (i) ability recognising signs of poor mental health in self and others; (ii) confidence talking about their own and others’ mental health; and (iii) knowing how to access mental health support services. Programme aspects contributing to this effect are peer-to-peer education and building on existing knowledge.
+
+Practical implications
+This paper addresses a gap in the literature by providing insights into programme aspects that lead to successful delivery.
+
+Theoretical implications
+This study reports on the evaluation of a tertiary education programme and provides valuable insights into whether such programmes can contribute to increased knowledge on wellbeing.
+
+Originality
+This research describes and analyses the effectiveness of a mental health promotion programme aimed at young adults which is rare in the literature.
+      image: "/images/pub_wellmates_image.png"
 
 - theme: "Interdisciplinary"
   publications:
@@ -66,14 +78,13 @@
         Attrition is a pervasive problem in longitudinal research. While attrition often stems from commonly reported on demographic characteristics, attrition can also be influenced by study design features that invoke behavioural responses in participants. One study feature that could impact attrition is the use of commitments (asking respondents to commit to a behaviour). In this paper, for the first time, we explore the impacts of using commitments on attrition in a field experiment. We ask survey respondents whether they would like to pre-commit to attending a nature restoration volunteering event. Surprisingly, we find that the attrition rate is 16 percentage points worse for those who are pre-committed to an event. Using linear probability models, we explore this finding and theorise that ingenuine commitments provoke feelings of guilt and respondents actively avoid these feelings by dropping out. These results have important implications, especially if feelings of guilt drive longer-term disengagement with policy and research.
       image: image: "/images/pub_commitments_image.jpg"
 
-    - title: "English and Maths Resits: Drivers of Success"
-      authors: "Maris, R., & Robinson, D."
+   - title: "Temporal stability of preferences: The case of COVID-19 vaccines in Australia and New Zealand"
+      authors: "Tran, M., Maris, R., Hess, S., Dorner, Z., Huynh, E., Glass, K., & Lancsar, E."
       year: 2025
-      journal: "Education Policy Institute"
-      link: "https://epi.org.uk/publications-and-research/english-and-maths-resits-drivers-of-success/"
+      journal: "Social Science and Medicine"
+      link: "https://doi.org/10.1016/j.socscimed.2025.118417"
       abstract: >
-        We use national administrative data to identify factors influencing the success of students retaking English
-        and maths GCSEs. The results highlight the importance of prior attainment, teaching quality, and institutional
-        support structures.
-      image: "/images/pub_resits.png"
+        This paper introduces a novel two-level Latent Class (LC) structure to investigate the temporal stability of preferences, allowing individuals to switch classes over time. The model is used to investigate the temporal stability of COVID–19 vaccine preferences in Australia (AUS) and New Zealand (NZ) during 2020-2021. Through online experiments on vaccine choices, stated choice data is collected across three waves from the general population in both countries. The LC estimation identifies three distinct preference classes: an “Impatient” group, with greater sensitivity to waiting time (AUS: 46%, NZ: 31%), a “Price Sensitive” group (AUS: 41%, NZ: 56%), and a “Vaccine Hesitant” group (AUS: 13%, NZ: 13%). Across waves, preferences for COVID-19 vaccines remain stable, with the probability of respondents remaining in the same class over three waves being 0.62 for Australia and 0.61 for NZ. Changes in preferences are significantly linked to variations in individuals’ socioeconomic status and COVID–19 policy responses during the survey period.
+      image: image: "/images/pub_ssm_image.jpg"
+
 

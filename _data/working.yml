@@ -1,1 +1,57 @@
+- theme: "Education and Labour Economics"
+  publications:
+    - title: "Blending Academic and Vocational Education: The Impact of T Levels"
+      authors: "Maris, R."
+      year: 2025
+      journal: "CEPEO Working Paper No. 25-11, University College London"
+      link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-11"
+      abstract: >
+        This study estimates the impact of England’s new T Level qualifications on student outcomes and progression.
+        Using administrative data, I find that T Levels improve vocational alignment and post-16 retention but show
+        mixed effects on academic progression.
+      image: "/images/pub_tlevels.png"
 
+    - title: "English and Maths Resits: Drivers of Success"
+      authors: "Maris, R., & Robinson, D."
+      year: 2025
+      journal: "Education Policy Institute"
+      link: "https://epi.org.uk/publications-and-research/english-and-maths-resits-drivers-of-success/"
+      abstract: >
+        We use national administrative data to identify factors influencing the success of students retaking English
+        and maths GCSEs. The results highlight the importance of prior attainment, teaching quality, and institutional
+        support structures.
+      image: "/images/pub_resits.png"
+
+- theme: "Environmental and Behavioural Economics"
+  publications:
+    - title: "Information Nudging and Monetary Incentives: A Green Partnership for Volunteering?"
+      authors: "Maris, R., Dorner, Z., & Carlsson, F."
+      year: 2025
+      journal: "Environmental and Resource Economics, 88(9)"
+      link: "https://doi.org/10.1007/s10640-025-01018-5"
+      abstract: >
+        This paper investigates how behavioural interventions influence pro-environmental volunteering. A field
+        experiment in New Zealand compares the effects of monetary incentives and informational nudges, finding that
+        combining both strategies significantly boosts participation and persistence.
+      image: "/images/pub_volunteering_graph.png"
+
+    - title: "Environmental Identity in Economics and Policymaking"
+      authors: "Dorner, Z., Maris, R., & Carlsson, F."
+      year: 2025
+      journal: "Review of Environmental Economics and Policy (forthcoming)"
+      link: "https://doi.org/10.1093/reep/rev010"
+      abstract: >
+        We propose the concept of “environmental identity” to explain heterogeneity in pro-environmental preferences
+        and policy support. Using survey and experimental data, we show that self-identified environmentalists exhibit
+        stronger willingness to pay for climate policies even after controlling for income and ideology.
+      image: "/images/pub_env_identity.png"
+
+    - title: "The Labour Market Trade-offs of Pet Ownership"
+      authors: "Maris, R., & Cameron, M. P. (2023)"
+      journal: "Economics and Business Letters, 12(1)"
+      link: "https://reunido.uniovi.es/index.php/EBL/article/view/18289"
+      abstract: >
+        Using microdata from New Zealand, we estimate the relationship between pet ownership and labour market
+        outcomes. Pet owners are more likely to choose flexible work arrangements but work fewer hours on average,
+        suggesting lifestyle preferences rather than productivity effects.
+      image: "/images/pub_pet_labour.png"

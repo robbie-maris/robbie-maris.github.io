@@ -12,7 +12,7 @@ Click on each title to expand the abstract and view a related figure.
 
 ---
 
-{% for group in site.data.publications %}
+{% for group in site.data.wp %}
 ## {{ group.theme }}
 {% for pub in group.publications %}
 <div class="publication-card">

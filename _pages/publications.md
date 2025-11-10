@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Below are a selection of my recent and forthcoming publications, grouped by research area.  
-Click on each title to expand the abstract and view a related figure.
+Click on each title to expand the abstract and view a related figure. See my [Google Scholar]([https://robbie-maris.github.io/wp](https://scholar.google.com/citations?user=wgOQC80AAAAJ&hl=en)) for a full list of my publications.
 
 ---
 

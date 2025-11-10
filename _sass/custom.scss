@@ -45,3 +45,12 @@ details summary {
 details summary:hover {
   text-decoration: underline;
 }
+
+.publication-card {
+  padding-top: 1em; /* adjust this value until it looks right */
+}
+
+.publication-card h3 {
+  margin-top: 0;
+}
+

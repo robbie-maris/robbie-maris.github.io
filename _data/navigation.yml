@@ -7,18 +7,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
         
   - title: "Working papers"
     url: /wp/
 
   - title: "Reports & Blogs"
     url: /reports/
+
+  - title: "Teaching"
+    url: /teaching/    
   
   - title: "CV"
     url: /cv/

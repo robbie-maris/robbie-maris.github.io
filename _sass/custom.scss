@@ -54,3 +54,37 @@ details summary:hover {
   margin-top: 0;
 }
 
+.teaching-card {
+  background: #f9fafb;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.2em 1.4em;
+  margin-bottom: 1.4em;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.teaching-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.teach-title a {
+  color: #003366;
+  text-decoration: none;
+}
+
+.teach-title a:hover {
+  text-decoration: underline;
+}
+
+.teach-meta {
+  margin: 0.3em 0;
+  font-weight: bold;
+  color: #444;
+}
+
+.teach-desc {
+  margin-top: 0.4em;
+  line-height: 1.5;
+}
+

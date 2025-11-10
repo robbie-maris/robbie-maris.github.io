@@ -6,7 +6,7 @@
       journal: "Environmental and Resource Economics, 88(9)"
       link: "https://link.springer.com/article/10.1007/s10640-025-01018-5"
       abstract: >
-      Shifting individual behaviour is an important tool for addressing environmental issues and there is a wide literature evaluating interventions to encourage pro-environmental behaviour. One important question is the effect of combining interventions to affect behaviour. In this paper, we evaluate the effects of two interventions – a monetary incentive and an information nudge targeting intrinsic motivation – on nature restoration volunteering. We use a two-by-two treatment design to evaluate the individual and combined effects of the interventions in a field experiment setting. We find that neither the monetary incentive nor the information nudge alone are effective at shifting behaviour. However, there are considerable positive synergies between the monetary incentive and nudge. The monetary incentive becomes more than twice as effective when it is combined with an information nudge. Our results have important policy implications, showing that concerns around motivation crowding out from monetary incentives could be mitigated by simple, low-cost information nudges targeting intrinsic motivation.
+        Shifting individual behaviour is an important tool for addressing environmental issues and there is a wide literature evaluating interventions to encourage pro-environmental behaviour. One important question is the effect of combining interventions to affect behaviour. In this paper, we evaluate the effects of two interventions – a monetary incentive and an information nudge targeting intrinsic motivation – on nature restoration volunteering. We use a two-by-two treatment design to evaluate the individual and combined effects of the interventions in a field experiment setting. We find that neither the monetary incentive nor the information nudge alone are effective at shifting behaviour. However, there are considerable positive synergies between the monetary incentive and nudge. The monetary incentive becomes more than twice as effective when it is combined with an information nudge. Our results have important policy implications, showing that concerns around motivation crowding out from monetary incentives could be mitigated by simple, low-cost information nudges targeting intrinsic motivation.
       image: "/images/pub_volunteering_image.png"
 
     - title: "Environmental Identity in Economics and Policymaking"
@@ -25,12 +25,12 @@
       link: "https://doi.org/10.1093/reep/rev010"
       abstract: >
         This paper examines the role of environmental identity in environmental policy and economics, the
-extent to which environmental policies affect environmental identity, and the welfare implications.
-We begin by reviewing the identity economics literature and environmental identity literature, and
-then present a novel conceptual framework of identity and pro-environmental behavior. We discuss
-how policy interacts with environmental identity, particularly through shifting and priming. We
-conclude with suggestions for future policymaking, as well as the role of economics in environmental
-identity research.
+        extent to which environmental policies affect environmental identity, and the welfare implications.
+        We begin by reviewing the identity economics literature and environmental identity literature, and
+        then present a novel conceptual framework of identity and pro-environmental behavior. We discuss
+        how policy interacts with environmental identity, particularly through shifting and priming. We
+        conclude with suggestions for future policymaking, as well as the role of economics in environmental
+        identity research.
       image: "/images/pub_reep_image.png"
 
 - theme: "Education and Labour"
@@ -40,7 +40,7 @@ identity research.
       journal: "Economics and Business Letters, 12(1)"
       link: "https://reunido.uniovi.es/index.php/EBL/article/view/18289"
       abstract: >
-       Pets are an important part of many peoples’ lives, and provide mental, physical and emotional benefits. However, the costs of pet ownership have received little attention. We investigate the association between pet ownership and wage income using data from the 2018 General Social Survey. We hypothesise that pet ownership may negatively influence income by lowering labour mobility and positively influence income by garnering valuable psychosocial attributes. We analyse interactions between pet ownership and education, pet ownership and housing tenure, and pet ownership and race to further investigate the potential labour mobility channel. Overall, we find that pet ownership decreases wage income and that these negative effects are larger for groups where mobility effects are likely higher.
+        Pets are an important part of many peoples’ lives, and provide mental, physical and emotional benefits. However, the costs of pet ownership have received little attention. We investigate the association between pet ownership and wage income using data from the 2018 General Social Survey. We hypothesise that pet ownership may negatively influence income by lowering labour mobility and positively influence income by garnering valuable psychosocial attributes. We analyse interactions between pet ownership and education, pet ownership and housing tenure, and pet ownership and race to further investigate the potential labour mobility channel. Overall, we find that pet ownership decreases wage income and that these negative effects are larger for groups where mobility effects are likely higher.
       image: "/images/pub_pets_image.png"
 
     - title: "Wellbeing education increases skills and knowledge among tertiary students in the agricultural sector: insights from a mixed methods study"
@@ -48,23 +48,23 @@ identity research.
       journal: "Journal of Agricultural Education and Extension, 31(2)"
       link: "https://doi.org/10.1080/1389224X.2024.2351545"
       abstract: >
-      Purpose
-The agricultural sector is facing a myriad of financial, environmental, social, and cultural challenges which affect the mental health of those working on-farm. This study focused on a tertiary education programme designed to increase recognition of mental health issues and convey strategies to address these.
-
-Methodology
-To identify the effect of such a programme, and which aspects contribute to that effect, this paper applied a mixed methods approach. Quantitative propensity score matching was used to identify changes in knowledge and skills, and qualitative surveys were conducted to explore the wellbeing of students and to identify aspects of the programme contributing to change.
-
-Findings
-Students report an increase in (i) ability recognising signs of poor mental health in self and others; (ii) confidence talking about their own and others’ mental health; and (iii) knowing how to access mental health support services. Programme aspects contributing to this effect are peer-to-peer education and building on existing knowledge.
-
-Practical implications
-This paper addresses a gap in the literature by providing insights into programme aspects that lead to successful delivery.
-
-Theoretical implications
-This study reports on the evaluation of a tertiary education programme and provides valuable insights into whether such programmes can contribute to increased knowledge on wellbeing.
-
-Originality
-This research describes and analyses the effectiveness of a mental health promotion programme aimed at young adults which is rare in the literature.
+        Purpose
+        The agricultural sector is facing a myriad of financial, environmental, social, and cultural challenges which affect the mental health of those working on-farm. This study focused on a tertiary education programme designed to increase recognition of mental health issues and convey strategies to address these.
+        
+        Methodology
+        To identify the effect of such a programme, and which aspects contribute to that effect, this paper applied a mixed methods approach. Quantitative propensity score matching was used to identify changes in knowledge and skills, and qualitative surveys were conducted to explore the wellbeing of students and to identify aspects of the programme contributing to change.
+        
+        Findings
+        Students report an increase in (i) ability recognising signs of poor mental health in self and others; (ii) confidence talking about their own and others’ mental health; and (iii) knowing how to access mental health support services. Programme aspects contributing to this effect are peer-to-peer education and building on existing knowledge.
+        
+        Practical implications
+        This paper addresses a gap in the literature by providing insights into programme aspects that lead to successful delivery.
+        
+        Theoretical implications
+        This study reports on the evaluation of a tertiary education programme and provides valuable insights into whether such programmes can contribute to increased knowledge on wellbeing.
+        
+        Originality
+        This research describes and analyses the effectiveness of a mental health promotion programme aimed at young adults which is rare in the literature.
       image: "/images/pub_wellmates_image.png"
 
 - theme: "Interdisciplinary"

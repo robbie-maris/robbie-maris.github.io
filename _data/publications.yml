@@ -1,7 +1,8 @@
 - theme: "Education and Labour Economics"
   publications:
     - title: "Blending Academic and Vocational Education: The Impact of T Levels"
-      authors: "Maris, R. (2025)"
+      authors: "Maris, R."
+      year: 2025
       journal: "CEPEO Working Paper No. 25-11, University College London"
       link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-11"
       abstract: >
@@ -11,7 +12,8 @@
       image: "/images/pub_tlevels.png"
 
     - title: "English and Maths Resits: Drivers of Success"
-      authors: "Maris, R., & Robinson, D. (2025)"
+      authors: "Maris, R., & Robinson, D."
+      year: 2025
       journal: "Education Policy Institute"
       link: "https://epi.org.uk/publications-and-research/english-and-maths-resits-drivers-of-success/"
       abstract: >
@@ -23,7 +25,8 @@
 - theme: "Environmental and Behavioural Economics"
   publications:
     - title: "Information Nudging and Monetary Incentives: A Green Partnership for Volunteering?"
-      authors: "Maris, R., Dorner, Z., & Carlsson, F. (2025)"
+      authors: "Maris, R., Dorner, Z., & Carlsson, F."
+      year: 2025
       journal: "Environmental and Resource Economics, 88(9)"
       link: "https://doi.org/10.1007/s10640-025-01018-5"
       abstract: >
@@ -33,7 +36,8 @@
       image: "/images/pub_volunteering_graph.png"
 
     - title: "Environmental Identity in Economics and Policymaking"
-      authors: "Dorner, Z., Maris, R., & Carlsson, F. (2025)"
+      authors: "Dorner, Z., Maris, R., & Carlsson, F."
+      year: 2025
       journal: "Review of Environmental Economics and Policy (forthcoming)"
       link: "https://doi.org/10.1093/reep/rev010"
       abstract: >

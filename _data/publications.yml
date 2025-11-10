@@ -76,7 +76,7 @@
       link: "https://www.tandfonline.com/doi/full/10.1080/13645579.2025.2544123"
       abstract: >
         Attrition is a pervasive problem in longitudinal research. While attrition often stems from commonly reported on demographic characteristics, attrition can also be influenced by study design features that invoke behavioural responses in participants. One study feature that could impact attrition is the use of commitments (asking respondents to commit to a behaviour). In this paper, for the first time, we explore the impacts of using commitments on attrition in a field experiment. We ask survey respondents whether they would like to pre-commit to attending a nature restoration volunteering event. Surprisingly, we find that the attrition rate is 16 percentage points worse for those who are pre-committed to an event. Using linear probability models, we explore this finding and theorise that ingenuine commitments provoke feelings of guilt and respondents actively avoid these feelings by dropping out. These results have important implications, especially if feelings of guilt drive longer-term disengagement with policy and research.
-      image: image: "/images/pub_commitments_image.jpg"
+      image: "/images/pub_commitments_image.jpg"
 
    - title: "Temporal stability of preferences: The case of COVID-19 vaccines in Australia and New Zealand"
       authors: "Tran, M., Maris, R., Hess, S., Dorner, Z., Huynh, E., Glass, K., & Lancsar, E."
@@ -85,6 +85,6 @@
       link: "https://doi.org/10.1016/j.socscimed.2025.118417"
       abstract: >
         This paper introduces a novel two-level Latent Class (LC) structure to investigate the temporal stability of preferences, allowing individuals to switch classes over time. The model is used to investigate the temporal stability of COVID–19 vaccine preferences in Australia (AUS) and New Zealand (NZ) during 2020-2021. Through online experiments on vaccine choices, stated choice data is collected across three waves from the general population in both countries. The LC estimation identifies three distinct preference classes: an “Impatient” group, with greater sensitivity to waiting time (AUS: 46%, NZ: 31%), a “Price Sensitive” group (AUS: 41%, NZ: 56%), and a “Vaccine Hesitant” group (AUS: 13%, NZ: 13%). Across waves, preferences for COVID-19 vaccines remain stable, with the probability of respondents remaining in the same class over three waves being 0.62 for Australia and 0.61 for NZ. Changes in preferences are significantly linked to variations in individuals’ socioeconomic status and COVID–19 policy responses during the survey period.
-      image: image: "/images/pub_ssm_image.jpg"
+      image: "/images/pub_ssm_image.jpg"
 
 

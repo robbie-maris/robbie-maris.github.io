@@ -15,20 +15,27 @@ Click on each title to expand the abstract and view a related figure.
 {% for group in site.data.publications %}
 ## {{ group.theme }}
 {% for pub in group.publications %}
-<div class="publication">
+<div class="publication-card">
 
-### [{{ pub.title }}]({{ pub.link }})
-**{{ pub.authors }}**. *{{ pub.journal }}.*
+  <h3 class="pub-title">
+    <a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a>
+  </h3>
 
-<details>
-  <summary><strong>View abstract & figure</strong></summary>
-  <p>{{ pub.abstract }}</p>
-  {% if pub.image %}
-  <p><img src="{{ pub.image }}" alt="{{ pub.title }}" style="max-width:500px; border-radius:8px; margin-top:10px;"></p>
-  {% endif %}
-</details>
+  <p class="pub-meta">
+    <strong>{{ pub.authors }}</strong> ({{ pub.year }}).<br>
+    <em>{{ pub.journal }}</em>.
+  </p>
+
+  <details>
+    <summary><strong>View abstract & figure</strong></summary>
+    <p>{{ pub.abstract }}</p>
+    {% if pub.image %}
+    <p><img src="{{ pub.image }}" alt="{{ pub.title }}" class="pub-figure"></p>
+    {% endif %}
+  </details>
 
 </div>
+
 ---
 {% endfor %}
 {% endfor %}

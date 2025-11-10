@@ -4,12 +4,10 @@
       authors: "Maris, R., Dorner, Z., & Carlsson, F."
       year: 2025
       journal: "Environmental and Resource Economics, 88(9)"
-      link: "https://doi.org/10.1007/s10640-025-01018-5"
+      link: "https://link.springer.com/article/10.1007/s10640-025-01018-5"
       abstract: >
-        This paper investigates how behavioural interventions influence pro-environmental volunteering. A field
-        experiment in New Zealand compares the effects of monetary incentives and informational nudges, finding that
-        combining both strategies significantly boosts participation and persistence.
-      image: "/images/pub_volunteering_graph.png"
+      Shifting individual behaviour is an important tool for addressing environmental issues and there is a wide literature evaluating interventions to encourage pro-environmental behaviour. One important question is the effect of combining interventions to affect behaviour. In this paper, we evaluate the effects of two interventions – a monetary incentive and an information nudge targeting intrinsic motivation – on nature restoration volunteering. We use a two-by-two treatment design to evaluate the individual and combined effects of the interventions in a field experiment setting. We find that neither the monetary incentive nor the information nudge alone are effective at shifting behaviour. However, there are considerable positive synergies between the monetary incentive and nudge. The monetary incentive becomes more than twice as effective when it is combined with an information nudge. Our results have important policy implications, showing that concerns around motivation crowding out from monetary incentives could be mitigated by simple, low-cost information nudges targeting intrinsic motivation.
+      image: "/images/pub_volunteering_image.png"
 
     - title: "Environmental Identity in Economics and Policymaking"
       authors: "Dorner, Z., Maris, R., & Carlsson, F."
@@ -63,10 +61,10 @@
       authors: "Maris, R."
       year: 2025
       journal: "International Journal of Social Research Methodology"
-      link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-11"
+      link: "https://www.tandfonline.com/doi/full/10.1080/13645579.2025.2544123"
       abstract: >
         Attrition is a pervasive problem in longitudinal research. While attrition often stems from commonly reported on demographic characteristics, attrition can also be influenced by study design features that invoke behavioural responses in participants. One study feature that could impact attrition is the use of commitments (asking respondents to commit to a behaviour). In this paper, for the first time, we explore the impacts of using commitments on attrition in a field experiment. We ask survey respondents whether they would like to pre-commit to attending a nature restoration volunteering event. Surprisingly, we find that the attrition rate is 16 percentage points worse for those who are pre-committed to an event. Using linear probability models, we explore this finding and theorise that ingenuine commitments provoke feelings of guilt and respondents actively avoid these feelings by dropping out. These results have important implications, especially if feelings of guilt drive longer-term disengagement with policy and research.
-      image: "/images/pub_tlevels.png"
+      image: image: "/images/pub_commitments_image.jpg"
 
     - title: "English and Maths Resits: Drivers of Success"
       authors: "Maris, R., & Robinson, D."

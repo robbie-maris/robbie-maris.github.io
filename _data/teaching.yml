@@ -1,0 +1,50 @@
+- title: "Data Analysis (POLS0010)"
+  role: "Senior PGTA"
+  institution: "University College London"
+  year: "2025/26"
+  link: "https://www.ucl.ac.uk/module-catalogue/modules/data-analysis-POLS0010"
+  description: >
+    Second-year undergraduate module introducing multiple regression, survey methods, and spatial analysis.
+    Delivered seminars, marked coursework, and supported students with data projects.
+
+- title: "Principles of Social Science Research (POLS0007)"
+  role: "Senior PGTA"
+  institution: "University College London"
+  year: "2024/25 and 2025/26"
+  link: "https://www.ucl.ac.uk/module-catalogue/modules/principles-of-social-science-research-POLS0007"
+  description: >
+    Undergraduate course on the design and philosophy of social science research.
+    Led seminars and provided feedback on quantitative methods assignments.
+
+- title: "Applied Econometrics (ECONS543)"
+  role: "Guest Tutor"
+  institution: "University of Waikato"
+  year: "2023"
+  link: "https://www.waikato.ac.nz/int/study/papers/econs543/2026/"
+  description: >
+    Postgraduate course focused on applied econometric methods using R and Stata.
+    Taught sessions on causal inference, including randomised control trials and difference-in-differences.
+
+- title: "Data Analytics for Business (BUSAN205)"
+  role: "Tutor"
+  institution: "University of Waikato"
+  year: "2023"
+  link: "https://universityofwaikato.example.com/busan205"
+  description: >
+    Delivered practical sessions on data visualisation and statistical modelling for business and economics students.
+
+- title: "Economics and Society (ECONS102)"
+  role: "Tutor"
+  institution: "University of Waikato"
+  year: "2020"
+  link: "https://www.waikato.ac.nz/int/study/papers/econs102/2026/"
+  description: >
+    Tutor on ECONS102 - a first-year undergraduate economics course. Provided feedback to students and marked essays and assignments.
+
+- title: "Pre-Conference Workshop on Randomized Control Trials (RCTs)"
+  role: "Co-Presenter"
+  institution: "Australasian Agricultural and Resource Economics Society (AARES)"
+  year: "2023"
+  link: "https://www.aares.org.au/Events/AARES-2023/preconference-workshops/"
+  description: >
+    Delivered a pre-conference workshop at the Australasian Agricultural and Resource Economics Society's annual conference in 2023.

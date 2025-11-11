@@ -1,57 +1,120 @@
-- theme: "Education and Labour Economics"
+- theme: "Working Papers"
   publications:
+    - title: "Degrees of Demand: Price Elasticity in Higher Education"
+      authors: "Crawford, C., Maris, R., Petit, F., & Wyness, G."
+      year: 2025
+      journal: "CEPEO Working Paper No. 25-13, University College London"
+      link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-13"
+      abstract: >
+        Tuition fees are a critical source of revenue for universities, yet how student demand 
+        responds to changes in fees remains poorly understood. Using administrative data 
+        from one of the largest UK universities between 2019 and 2025, we estimate the 
+        price elasticity of demand for both undergraduate and postgraduate degrees. Our 
+        analysis distinguishes between the application and enrolment stages, accounts for 
+        persistence in demand across cohorts, and incorporates fee data from competitor 
+        institutions to estimate cross-price elasticities. We find that postgraduate students 
+        are substantially more price-sensitive than undergraduates, with estimated 
+        elasticities of -0.27 for applications and -0.13 for enrolments. Undergraduate 
+        demand is largely price-inelastic. Elasticities vary sharply across countries: 
+        applicants from emerging markets such as India, Indonesia, and Turkey display 
+        positive application elasticities—consistent with tuition functioning as a signal of 
+        quality—while students from Europe and the Americas exhibit conventional price 
+        sensitivity. Subject-level variation is more muted: demand for engineering and other 
+        STEM disciplines is effectively inelastic, consistent with high expected earnings, 
+        while other subjects display stronger negative elasticities. We also document strong 
+        persistence in demand across cohorts within countries, suggesting peer-driven 
+        information spillovers. Finally, we find limited responsiveness to competitors’ tuition 
+        at the application stage but positive cross-price elasticity at enrolment, indicating 
+        substitution effects once offers are received. These results provide the most 
+        comprehensive and recent evidence on tuition responsiveness in UK higher education, highlighting how price sensitivity differs across stages, markets, and subjects.       
+      image: "/images/pub_elasticity_image.png"
+    
     - title: "Blending Academic and Vocational Education: The Impact of T Levels"
       authors: "Maris, R."
       year: 2025
       journal: "CEPEO Working Paper No. 25-11, University College London"
       link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-11"
       abstract: >
-        This study estimates the impact of England’s new T Level qualifications on student outcomes and progression.
-        Using administrative data, I find that T Levels improve vocational alignment and post-16 retention but show
-        mixed effects on academic progression.
-      image: "/images/pub_tlevels.png"
+        Upper-secondary technical and vocational education and training (VET) is responsible for educating a large proportion of the world’s population, significantly impacting productivity and economic growth. Over recent years, there has been a global trend towards combining academic and vocational tracks into one pathway within upper secondary education. In this paper, we analyse the short-run impacts of one of the most recent of these efforts–the T level reforms in England. T levels are large VET qualifications that are more academically oriented than existing VET qualifications and are designed in-part to support progression to further academic or vocational study. Using a combination of quasi-experimental methods (instrumental variables, regression adjustment and matching), we find mixed impacts of T levels on student achievement and progression. T level students are significantly less likely to achieve a full level 3 by the age of 18. However, T level students are more likely to progress to advanced apprenticeships and higher technical study. We show that these impacts are more negative for the marginal student and when considering other level 3 vocational pathways as an alternate form of study. We also find heterogeneity by T level pathway (subject), indicating that some pathways are performing significantly better than others.
+      image: "/images/pub_tlev_impact_image.png"
 
-    - title: "English and Maths Resits: Drivers of Success"
-      authors: "Maris, R., & Robinson, D."
+    - title: "Upper Secondary Pathways and Progression to Further Study"
+      authors: "Maris, R."
       year: 2025
-      journal: "Education Policy Institute"
-      link: "https://epi.org.uk/publications-and-research/english-and-maths-resits-drivers-of-success/"
+      journal: "CEPEO Working Paper No. 25-08, University College London"
+      link: "https://EconPapers.repec.org/RePEc:ucl:cepeow:25-08"
       abstract: >
-        We use national administrative data to identify factors influencing the success of students retaking English
-        and maths GCSEs. The results highlight the importance of prior attainment, teaching quality, and institutional
-        support structures.
-      image: "/images/pub_resits.png"
+        Upper secondary education is critical in preparing young people for further study. This paper explores how various upper-secondary education pathways influence students’ progression to further study, shedding light on their effectiveness in expanding educational opportunities. Using linked English administrative data, we compare progression outcomes across a range of pathways, including the brand new T level vocational pathway and the increasingly popular mixed (academic and vocational) track. We consider progression across three dimensions–overall progression to further study, progression to high-quality further study and preparedness for further study, proxied by drop out rates. We find that students on the new T level pathway are more likely to progress to higher technical qualifications and advanced apprenticeships than all other pathways. However, T level students are significantly less likely to enter university and, when they do, are disproportionately represented in lower-tariff institutions and courses. This is despite policy promises that T levels would be a “springboard” to higher education (HE). Conditional on progressing to further study, T level students are well prepared for their chosen course of study and they drop out at significantly lower rates than other learners. We also show that some pathways are more effective at supporting low SES students in progressing to further study.
+      image: "/images/pub_pathways_image.png"
 
-- theme: "Environmental and Behavioural Economics"
+
+- theme: "Works in Progress"
   publications:
-    - title: "Information Nudging and Monetary Incentives: A Green Partnership for Volunteering?"
+    - title: "Determinants of Success in Exam Retakes: Evidence from England’s Resit Policy"
+      authors: "In progress"
+      year: 2025
+      journal:
+      link:
+      abstract: >
+        Exam retakes are common in education systems around the world. Yet, due to self
+        selection issues, there has been very little research on where, when and why exam
+        retakes are successful. This is important to understand because often these exams pro
+        vide important gateways to further education, employment and life outcomes for many
+        young people. In this paper, we analyse the individual and institutional drivers of exam
+        retake success. To overcome selection issues, we leverage the “resit policy” in England
+        that effectively forces all upper-secondary students to retake exams in English and
+        maths if they do not pass them the first-time round. We estimate value-add Mundlak
+        models that evaluate how important and effective institutions are at delivering exam
+        retakes. Our models also allow us to investigate the individual and institution-level
+        characteristics that are associated with better performance on exam resits. We find sig
+        nificant disparities along socioeconomic, gender and ethnic lines, even after controlling
+        for prior attainment. We show that the drivers of success vary between English and
+        maths, with wider academic attainment being more influential for English than it is for
+        maths. Our value-add estimates show institutions do matter and to a similar extent as
+        other contexts. However, there is greater variability in institutional performance and
+        more noise in retakes for English than there is for maths. Overall, our results shed new
+        light on the drivers of success in exam retakes and point to some important areas of
+        development for the resit policy in England.
+      image:
+
+    - title: "Determinants of Negative Attitudes towards Vocational Education- Evidence from Europe"
+      authors: "Maris, R., Anders, J., Campbell, T., & Wyness, G."
+      year: "In progress"
+      journal:
+      link:
+      abstract: >
+        It is widely recognised that VET is stigmatised across many countries, and this is
+        a growing concern to policymakers and researchers. This stigma can affect student
+        choices, life satisfaction and the provision of skills, which is problematic given how
+        important VET is to the economy. Despite growing concern, little research has empiri
+        cally evaluated the determinants of negative perceptions towards VET. We address this
+        gap using nationally representative survey data from all European Union (EU) member
+        states on attitudes towards VET. We investigate the factors correlated with negative
+        attitudes towards VET, including whether VET is stigmatised relative to general edu
+        cation and perceptions of VET quality. We present descriptive patterns and then run
+        linear regression models with fixed effects to predict variation in attitudes within coun
+        tries. We find significant variation in stigma by socioeconomic status, gender and prior
+        experiences with VET, even after accounting for differences in the perceived quality of
+        VET. We also highlight considerable heterogeneity across countries and the structure
+        of their VET system. These results have important implications for policy and future
+        research, pointing to key areas of focus for improving the social perceptions of VET
+        around the world
+      image:
+
+    - title: "Patterns in university applications: Socioeconomic status, gender, and subject vs. institution preferences."
+      authors: "Hertweck, F., Maris, R., Tonin, M., & Vlassopolous, M."
+      year: "In progress"
+      journal:
+      link:
+      abstract: >
+      image:
+
+    - title: "The causal impacts and behavioural spillovers of volunteering for the environment"
       authors: "Maris, R., Dorner, Z., & Carlsson, F."
-      year: 2025
-      journal: "Environmental and Resource Economics, 88(9)"
-      link: "https://doi.org/10.1007/s10640-025-01018-5"
+      year: "In progress"
+      journal:
+      link:
       abstract: >
-        This paper investigates how behavioural interventions influence pro-environmental volunteering. A field
-        experiment in New Zealand compares the effects of monetary incentives and informational nudges, finding that
-        combining both strategies significantly boosts participation and persistence.
-      image: "/images/pub_volunteering_graph.png"
-
-    - title: "Environmental Identity in Economics and Policymaking"
-      authors: "Dorner, Z., Maris, R., & Carlsson, F."
-      year: 2025
-      journal: "Review of Environmental Economics and Policy (forthcoming)"
-      link: "https://doi.org/10.1093/reep/rev010"
-      abstract: >
-        We propose the concept of “environmental identity” to explain heterogeneity in pro-environmental preferences
-        and policy support. Using survey and experimental data, we show that self-identified environmentalists exhibit
-        stronger willingness to pay for climate policies even after controlling for income and ideology.
-      image: "/images/pub_env_identity.png"
-
-    - title: "The Labour Market Trade-offs of Pet Ownership"
-      authors: "Maris, R., & Cameron, M. P. (2023)"
-      journal: "Economics and Business Letters, 12(1)"
-      link: "https://reunido.uniovi.es/index.php/EBL/article/view/18289"
-      abstract: >
-        Using microdata from New Zealand, we estimate the relationship between pet ownership and labour market
-        outcomes. Pet owners are more likely to choose flexible work arrangements but work fewer hours on average,
-        suggesting lifestyle preferences rather than productivity effects.
-      image: "/images/pub_pet_labour.png"
+      image:
+    
+    

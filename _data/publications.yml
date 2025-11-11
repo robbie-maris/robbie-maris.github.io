@@ -31,7 +31,7 @@
       link: "https://doi.org/10.1111/1467-8462.12505"
       abstract: >
         Society is facing significant environmental challenges. The effects of climate change, biodiversity loss and environmental degradation are being increasingly felt worldwide. In recent years, researchers have attempted to adapt neoclassical and endogenous growth theory to account for constraints imposed by scarce natural resources. In this article, we review where, and how, researchers tend to incorporate natural resources and natural capital into growth theory. We then outline areas and questions that remain unanswered, including how novel impact investing and the eroding trade-off between GDP and the environment affect growth theory.
-      image: "/images/pub_growth_image.PNG"
+      image: "/images/pub_growth_image.png"
 
 
     - title: "Protecting and restoring freshwater biodiversity across urban areas in Aotearoa New Zealand: Citizens’ reporting of pollution in stormwater drains and waterways"
@@ -52,7 +52,7 @@
       link: "https://reunido.uniovi.es/index.php/EBL/article/view/18289"
       abstract: >
         Pets are an important part of many peoples’ lives, and provide mental, physical and emotional benefits. However, the costs of pet ownership have received little attention. We investigate the association between pet ownership and wage income using data from the 2018 General Social Survey. We hypothesise that pet ownership may negatively influence income by lowering labour mobility and positively influence income by garnering valuable psychosocial attributes. We analyse interactions between pet ownership and education, pet ownership and housing tenure, and pet ownership and race to further investigate the potential labour mobility channel. Overall, we find that pet ownership decreases wage income and that these negative effects are larger for groups where mobility effects are likely higher.
-      image: "/images/pub_pets_image.png"
+      image: "/images/pub_pets_image.PNG"
 
     - title: "Optimism bias as a barrier to accessing mental health support amongst tertiary students"
       authors: "Stanley-Clarke, N., Hay, A., Maris, R., Ryan, A., Knook, J., & Winder, L.,"
@@ -86,7 +86,7 @@
         
         Originality
         This research describes and analyses the effectiveness of a mental health promotion programme aimed at young adults which is rare in the literature.
-      image: "/images/pub_pets_image.PNG"
+      image: "/images/pub_wellmates_image.PNG"
 
 - theme: "Interdisciplinary"
   publications:
@@ -130,7 +130,7 @@
         
         Conclusions:
         The paper contributes to the wider literature, which shows social media can be associated with reinforcing both pro and antivaccination sentiment, and these results depend on where individuals get their information from and their trust in such sources.
-      image: "/images/pub_vaccine_sm_image.PNG"
+      image: "/images/pub_vaccine_sm_image.png"
 
 
 

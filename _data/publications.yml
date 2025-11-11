@@ -9,15 +9,6 @@
         Shifting individual behaviour is an important tool for addressing environmental issues and there is a wide literature evaluating interventions to encourage pro-environmental behaviour. One important question is the effect of combining interventions to affect behaviour. In this paper, we evaluate the effects of two interventions – a monetary incentive and an information nudge targeting intrinsic motivation – on nature restoration volunteering. We use a two-by-two treatment design to evaluate the individual and combined effects of the interventions in a field experiment setting. We find that neither the monetary incentive nor the information nudge alone are effective at shifting behaviour. However, there are considerable positive synergies between the monetary incentive and nudge. The monetary incentive becomes more than twice as effective when it is combined with an information nudge. Our results have important policy implications, showing that concerns around motivation crowding out from monetary incentives could be mitigated by simple, low-cost information nudges targeting intrinsic motivation.
       image: "/images/pub_volunteering_image.png"
 
-    - title: "Protecting and restoring freshwater biodiversity across urban areas in Aotearoa New Zealand: Citizens’ reporting of pollution in stormwater drains and waterways"
-      authors: "McLeod,J., Hine, D., Milfont, T., ,Dorner, Z., Tassell-Matamua, N., Maris, R., Kitson, J. & Stahlmann-Brown, P."
-      year: 2024
-      journal: "Journal of Environmental Management, 351"
-      link: "https://doi.org/10.1016/j.jenvman.2024.120019"
-      abstract: >
-        Urbanization poses numerous challenges to freshwater biodiversity. This paper describes two studies with the joint aim of demonstrating the benefits of applying a systematic behaviour change framework and providing the foundational knowledge to inform future behavior change work to protect and restore urban freshwater biodiversity. In Study 1 we used a mixed-methods research design, involving 14 key informant interviews followed by an online survey targeting 17 freshwater biodiversity experts and another targeting a representative sample of 550 urban residents, to identify and prioritize the most promising resident behaviors to target to reduce stormwater pollution and improve natural waterway habitats in urban areas. Study 2 focused on the top-ranked short-term behavior identified in Study 1, citizen reporting of pollution in stormwater drains and waterways. We surveyed a representative sample of 1901 urban residents across Aoteraoa New Zealand to identify four main determinants influencing this behavior: awareness and uncertainty about reporting, lack of opportunity to report, social motivation and personal motivation to report, and five potential target audiences: ‘Supportive’, ‘Unaware but receptive’, ‘Motivated but lack support’, ‘Reluctant’, and ‘Not my problem’. We make recommendations for the most appropriate intervention designs to target each of these audience segments to promote the reporting of stormwater pollution in urban areas. This knowledge will allow for a more coordinated and effective approach for addressing the ‘human element’ that lies at the heart of many urban freshwater management problems.
-      image: ""
-
     - title: "Environmental Identity in Economics and Policymaking"
       authors: "Dorner, Z., Maris, R., & Carlsson, F."
       year: 2025
@@ -33,18 +24,48 @@
         identity research.
       image: "/images/pub_reep_image.png"
 
+    - title: "Economic growth theory and natural resource constraints: a stocktake and critical assessment"
+      authors: "Maris, R., & Holmes, M."
+      year: 2023
+      journal: "Australian Economic Review, 56(2)"
+      link: "https://doi.org/10.1111/1467-8462.12505"
+      abstract: >
+        Society is facing significant environmental challenges. The effects of climate change, biodiversity loss and environmental degradation are being increasingly felt worldwide. In recent years, researchers have attempted to adapt neoclassical and endogenous growth theory to account for constraints imposed by scarce natural resources. In this article, we review where, and how, researchers tend to incorporate natural resources and natural capital into growth theory. We then outline areas and questions that remain unanswered, including how novel impact investing and the eroding trade-off between GDP and the environment affect growth theory.
+      image: "/images/pub_growth_image.PNG"
+
+
+    - title: "Protecting and restoring freshwater biodiversity across urban areas in Aotearoa New Zealand: Citizens’ reporting of pollution in stormwater drains and waterways"
+      authors: "McLeod,J., Hine, D., Milfont, T., ,Dorner, Z., Tassell-Matamua, N., Maris, R., Kitson, J. & Stahlmann-Brown, P."
+      year: 2024
+      journal: "Journal of Environmental Management, 351"
+      link: "https://doi.org/10.1016/j.jenvman.2024.120019"
+      abstract: >
+        Urbanization poses numerous challenges to freshwater biodiversity. This paper describes two studies with the joint aim of demonstrating the benefits of applying a systematic behaviour change framework and providing the foundational knowledge to inform future behavior change work to protect and restore urban freshwater biodiversity. In Study 1 we used a mixed-methods research design, involving 14 key informant interviews followed by an online survey targeting 17 freshwater biodiversity experts and another targeting a representative sample of 550 urban residents, to identify and prioritize the most promising resident behaviors to target to reduce stormwater pollution and improve natural waterway habitats in urban areas. Study 2 focused on the top-ranked short-term behavior identified in Study 1, citizen reporting of pollution in stormwater drains and waterways. We surveyed a representative sample of 1901 urban residents across Aoteraoa New Zealand to identify four main determinants influencing this behavior: awareness and uncertainty about reporting, lack of opportunity to report, social motivation and personal motivation to report, and five potential target audiences: ‘Supportive’, ‘Unaware but receptive’, ‘Motivated but lack support’, ‘Reluctant’, and ‘Not my problem’. We make recommendations for the most appropriate intervention designs to target each of these audience segments to promote the reporting of stormwater pollution in urban areas. This knowledge will allow for a more coordinated and effective approach for addressing the ‘human element’ that lies at the heart of many urban freshwater management problems.
+      image: ""
+      
 - theme: "Education and Labour"
   publications:
     - title: "The Labour Market Trade-offs of Pet Ownership"
-      authors: "Maris, R., & Cameron, M. P. (2023)"
+      authors: "Maris, R., & Cameron, M. P."
+      year: 2023
       journal: "Economics and Business Letters, 12(1)"
       link: "https://reunido.uniovi.es/index.php/EBL/article/view/18289"
       abstract: >
         Pets are an important part of many peoples’ lives, and provide mental, physical and emotional benefits. However, the costs of pet ownership have received little attention. We investigate the association between pet ownership and wage income using data from the 2018 General Social Survey. We hypothesise that pet ownership may negatively influence income by lowering labour mobility and positively influence income by garnering valuable psychosocial attributes. We analyse interactions between pet ownership and education, pet ownership and housing tenure, and pet ownership and race to further investigate the potential labour mobility channel. Overall, we find that pet ownership decreases wage income and that these negative effects are larger for groups where mobility effects are likely higher.
       image: "/images/pub_pets_image.png"
 
+    - title: "Optimism bias as a barrier to accessing mental health support amongst tertiary students"
+      authors: "Stanley-Clarke, N., Hay, A., Maris, R., Ryan, A., Knook, J., & Winder, L.,"
+      year: 2024
+      journal: "Higher Education Research & Development, 43(7)"
+      link: "https://doi.org/10.1080/07294360.2024.2339838"
+      abstract: >
+        Student wellbeing is a key concern for those delivering tertiary education. Tertiary providers such as universities use a range of techniques to support student wellbeing through times of stress. This article reports on one finding from a mixed methods study at two New Zealand universities that explored how students enrolled in agricultural courses saw and managed their wellbeing. The findings demonstrated that students reflected an optimism bias regarding managing their own stress believing most stressful situations would resolve without the need to involve support services. Their intent was that university support services were only to be used in times of mental health crisis. Consequently, students reported that they would not engage with support and education around managing their wellbeing but did find value in learning about how to support others through times of crisis. These findings contribute to knowledge about tertiary students’ attitudes to stress and support services. They have implications for those delivering wellbeing services at tertiary institutions in terms of how best to tailor and deliver services for students experiencing stress.      
+      image: ""
+
     - title: "Wellbeing education increases skills and knowledge among tertiary students in the agricultural sector: insights from a mixed methods study"
-      authors: "Winder, L., Stanley-Clarke, N., Maris, R., Hay, A., & Knook, J. (2025)"
+      authors: "Winder, L., Stanley-Clarke, N., Maris, R., Hay, A., & Knook, J."
+      year: 2025
       journal: "Journal of Agricultural Education and Extension, 31(2)"
       link: "https://doi.org/10.1080/1389224X.2024.2351545"
       abstract: >
@@ -69,14 +90,6 @@
 
 - theme: "Interdisciplinary"
   publications:
-    - title: "The impact of commitments on longitudinal survey attrition"
-      authors: "Maris, R."
-      year: 2025
-      journal: "International Journal of Social Research Methodology"
-      link: "https://www.tandfonline.com/doi/full/10.1080/13645579.2025.2544123"
-      abstract: >
-        Attrition is a pervasive problem in longitudinal research. While attrition often stems from commonly reported on demographic characteristics, attrition can also be influenced by study design features that invoke behavioural responses in participants. One study feature that could impact attrition is the use of commitments (asking respondents to commit to a behaviour). In this paper, for the first time, we explore the impacts of using commitments on attrition in a field experiment. We ask survey respondents whether they would like to pre-commit to attending a nature restoration volunteering event. Surprisingly, we find that the attrition rate is 16 percentage points worse for those who are pre-committed to an event. Using linear probability models, we explore this finding and theorise that ingenuine commitments provoke feelings of guilt and respondents actively avoid these feelings by dropping out. These results have important implications, especially if feelings of guilt drive longer-term disengagement with policy and research.
-      image: "/images/pub_commitments_image.jpg"
 
     - title: "Temporal stability of preferences: The case of COVID-19 vaccines in Australia and New Zealand"
       authors: "Tran, M., Maris, R., Hess, S., Dorner, Z., Huynh, E., Glass, K., & Lancsar, E."
@@ -86,5 +99,38 @@
       abstract: >
         This paper introduces a novel two-level Latent Class (LC) structure to investigate the temporal stability of preferences, allowing individuals to switch classes over time. The model is used to investigate the temporal stability of COVID–19 vaccine preferences in Australia (AUS) and New Zealand (NZ) during 2020-2021. Through online experiments on vaccine choices, stated choice data is collected across three waves from the general population in both countries. The LC estimation identifies three distinct preference classes: an “Impatient” group, with greater sensitivity to waiting time (AUS: 46%, NZ: 31%), a “Price Sensitive” group (AUS: 41%, NZ: 56%), and a “Vaccine Hesitant” group (AUS: 13%, NZ: 13%). Across waves, preferences for COVID-19 vaccines remain stable, with the probability of respondents remaining in the same class over three waves being 0.62 for Australia and 0.61 for NZ. Changes in preferences are significantly linked to variations in individuals’ socioeconomic status and COVID–19 policy responses during the survey period.
       image: "/images/pub_ssm_image.PNG"
+  
+    - title: "The impact of commitments on longitudinal survey attrition"
+      authors: "Maris, R."
+      year: 2025
+      journal: "International Journal of Social Research Methodology"
+      link: "https://www.tandfonline.com/doi/full/10.1080/13645579.2025.2544123"
+      abstract: >
+        Attrition is a pervasive problem in longitudinal research. While attrition often stems from commonly reported on demographic characteristics, attrition can also be influenced by study design features that invoke behavioural responses in participants. One study feature that could impact attrition is the use of commitments (asking respondents to commit to a behaviour). In this paper, for the first time, we explore the impacts of using commitments on attrition in a field experiment. We ask survey respondents whether they would like to pre-commit to attending a nature restoration volunteering event. Surprisingly, we find that the attrition rate is 16 percentage points worse for those who are pre-committed to an event. Using linear probability models, we explore this finding and theorise that ingenuine commitments provoke feelings of guilt and respondents actively avoid these feelings by dropping out. These results have important implications, especially if feelings of guilt drive longer-term disengagement with policy and research.
+      image: "/images/pub_commitments_image.jpg"
+
+
+    - title: "Social Media and the Evolution of Vaccine Preferences During the COVID-19 Pandemic: Discrete Choice Experiment"
+      authors: "Maris, R., Dorner, Z., Hess, S., & Tucker, S."
+      year: 2025
+      journal: "JMIR Infodemiology"
+      link: "https://doi.org/10.2196/66081"
+      abstract: >
+        Background:
+        Vaccine information and misinformation are spread through social media in ways that may vary by platform. Understanding the role social media plays in shaping vaccine preferences is crucial for policymakers and researchers.
+        
+        Objective:
+        This study aims to test whether social media use is associated with changes in vaccine preferences during the COVID-19 pandemic in New Zealand, and whether trust in sources of information has a moderating role.
+        
+        Methods:
+        Our data consist of a balanced panel of 257 web-based respondents in New Zealand in August 2020, October-November 2020, and March-April 2021. We use a novel approach with stated choice panel data to study transitions between different vaccine preference groups. We analyze the associations between these transitions and social media use. We classify respondents as resistant (never chose a vaccine), hesitant (chose a vaccine between 1 and 5 times), and provaccine (chose a vaccine 6 out of 6 times) in each wave of data.
+        
+        Results:
+        We found a positive or neutral association between social media use and vaccine uptake. Facebook, Twitter (pre-2022), and TikTok users who are provaccine are less likely to become hesitant or resistant. Facebook and Instagram users who are hesitant are more likely to become pro. Some social media platforms may have a more positive association with vaccine uptake preferences for those who do not trust the government.
+        
+        Conclusions:
+        The paper contributes to the wider literature, which shows social media can be associated with reinforcing both pro and antivaccination sentiment, and these results depend on where individuals get their information from and their trust in such sources.
+      image: "/images/pub_vaccine_sm_image.PNG"
+
 
 

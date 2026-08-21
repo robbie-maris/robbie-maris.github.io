@@ -14,6 +14,9 @@ main:
   - title: "Reports & Blogs"
     url: /reports/
 
+  - title: "Media & Impact"
+    url: /media/
+
   - title: "Teaching"
     url: /teaching/    
   
